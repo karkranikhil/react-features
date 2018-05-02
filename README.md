@@ -1,6 +1,6 @@
-# react features
+# React features
 
-## It's an React application that have Below features 
+## It's a React application that have Below features 
 
 <p> 1.Looping</p>
 <p> 2.Filtering </p>
