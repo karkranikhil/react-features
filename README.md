@@ -1,8 +1,8 @@
-## react features
+# react features
 
-# It's an React application that have Below features 
+#3 It's an React application that have Below features 
 
-# 1.Looping
+<p> 1.Looping</p>
 # 2.Filtering
 # 3.Searching
 # 4.Ajax
